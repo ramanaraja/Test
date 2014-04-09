@@ -1,2 +1,2 @@
 test document
-modified changes in revision 2
+modified removed in revision 2
